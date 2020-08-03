@@ -1,0 +1,4 @@
+﻿  Palindrom.cpp
+D:\Study\C_C++\Coursera-C-_White_Belt-\Palindrom\Palindrom.cpp(25,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\C_C++\Coursera-C-_White_Belt-\Palindrom\Palindrom.cpp(36,24): warning C4018: >=: несоответствие типов со знаком и без знака
+  Palindrom.vcxproj -> D:\Study\C_C++\Coursera-C-_White_Belt-\Palindrom\Debug\Palindrom.exe
