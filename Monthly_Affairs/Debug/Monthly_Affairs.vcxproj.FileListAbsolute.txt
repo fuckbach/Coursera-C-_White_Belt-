@@ -1,0 +1,2 @@
+D:\Projects\C,C++\Coursres(С++_White_Belt)\Coursera(C++_White_Belt)\Monthly_Affairs\Debug\Monthly_Affairs.exe
+D:\Projects\C,C++\Coursres(С++_White_Belt)\Coursera(C++_White_Belt)\Monthly_Affairs\Debug\Monthly_Affairs.pdb
