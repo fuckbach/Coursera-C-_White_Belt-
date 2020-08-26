@@ -1,0 +1,2 @@
+D:\Projects\C,C++\Coursres(С++_White_Belt)\Coursera(C++_White_Belt)\Bus_stops\Debug\Bus_stops.exe
+D:\Projects\C,C++\Coursres(С++_White_Belt)\Coursera(C++_White_Belt)\Bus_stops\Debug\Bus_stops.pdb
