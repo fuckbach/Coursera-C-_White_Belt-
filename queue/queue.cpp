@@ -41,7 +41,7 @@ int main()
 			queue[atoi(cmd[1].c_str())] = true;
 		}
 
-		else if (cmd[0] == "QUIET ") {
+		else if (cmd[0] == "QUIET") {
 			queue[atoi(cmd[1].c_str())] = false;
 		}
 
