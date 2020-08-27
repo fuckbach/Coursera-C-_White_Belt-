@@ -21,9 +21,26 @@ int main()
             cin >> stop;
             stops.push_back(stop);
         }
-
-        bus_stops[i + 1] = stops;
-        stops.clear();
+        int tmp = 0;
+        int num;
+        for (auto g : bus_stops) {
+            if (g.second == stops) {
+                tmp++;
+                num = g.first;
+            }
+        }
+        if (tmp != 0) {
+            cout << "Already exists for " << num<<endl;
+            tmp = 0;
+            stops.clear();
+        }
+        else {
+            num = bus_stops.size() + 1;
+            bus_stops[num] = stops;
+            stops.clear();
+            cout << "New bus " << num << endl;
+        }
+        
     }
 }
 
